@@ -12,11 +12,6 @@ tags:
 - onsen
 - taipei
 date_created: 2026-04-19
-external_extra_fields:
-- location_zh
-- location_en
-- room_count
-- seasonal_focus
 location_zh: 陽明山
 location_en: Yangmingshan, Taipei
 room_count: 12
